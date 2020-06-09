@@ -2,6 +2,8 @@
 
 # Welcome to Zalarify
 
+test
+
 [![CircleCI](https://circleci.com/gh/salazarguille/Zalarify/tree/master.svg?style=svg&circle-token=2233c5b8e37df5758cbdd49dcb034b65837b89f8)](https://circleci.com/gh/salazarguille/Zalarify/tree/master)
 
 [![Coverage Status](https://coveralls.io/repos/github/salazarguille/Zalarify/badge.svg?branch=master)](https://coveralls.io/github/salazarguille/Zalarify?branch=master)
